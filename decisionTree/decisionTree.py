@@ -24,10 +24,8 @@ dummyX = vec.fit_transform(featureList) .toarray()
 # vectorize class labels
 lb = preprocessing.LabelBinarizer()
 dummyY = lb.fit_transform(labelList)
-# print("dummyY: " + str(dummyY))
 
 # Using decision tree for classification
-# clf = tree.DecisionTreeClassifier()
 clf = tree.DecisionTreeClassifier(criterion='entropy')
 clf = clf.fit(dummyX, dummyY)
 
