@@ -10,4 +10,5 @@ video resources for study： [深度学习基础介绍-机器学习](http://www.
     logistic regression  
     linear regression  
 6. clustering  
-    k-means
+    k-means  
+    hierarchical clustering  
