@@ -6,7 +6,7 @@ video resources for study： [深度学习基础介绍-机器学习](http://www.
 2. knn
 3. svm
 4. neural network
-5. regression
+5. regression  
     logistic regression  
     linear regression  
 6. clustering
